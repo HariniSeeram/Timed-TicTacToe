@@ -22,5 +22,6 @@ A command-line based **Timed Tic Tac Toe** game built using **Java**, where each
 
 ## 🚀 How to Run
 
-javac TimedTicTacToe4x4.java
-java TimedTicTacToe4x4
+javac TimedTicTacToe.java
+
+java TimedTicTacToe
